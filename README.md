@@ -35,26 +35,6 @@ An online beauty parlour service platform where users can explore beauty and gro
 | API Testing  | Postman (optional) |
 
 
-## 🗂 Project Structure
-
-beauty-parlour-project/
-│
-├── frontend/ # React frontend
-│ ├── src/
-│ └── package.json
-│
-├── backend/ # Node.js backend
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ └── package.json
-│
-└── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠 Installation & Setup
@@ -64,18 +44,27 @@ Edit
 - MongoDB
 - npm or yarn
 
-### 🔹 Backend Setup
+## 🔹 Backend Setup
 
 cd backend
+
 npm install
+
 node server.js
-🔹 Frontend Setup
+
+##🔹 Frontend Setup
 bash
+
 Copy
+
 Edit
+
 cd frontend
+
 npm install
+
 npm start
+
 Visit: http://localhost:3000
 
 ## Screenshots
@@ -83,3 +72,18 @@ Visit: http://localhost:3000
 Signup 
 
 ![image](https://github.com/user-attachments/assets/b67a471d-7afe-4ba9-b5bf-0b349170cf9b)
+
+Signin
+
+![image](https://github.com/user-attachments/assets/0627b5eb-6211-49e2-8f36-1bbd508bb7a4)
+
+Homepage
+
+![image](https://github.com/user-attachments/assets/754b5aa5-4451-4a76-998f-66aabf1d3c41)
+
+Book A Slot
+
+![image](https://github.com/user-attachments/assets/c2706f44-ea31-4fd5-a85b-98b2a8dcde9d)
+
+
+
